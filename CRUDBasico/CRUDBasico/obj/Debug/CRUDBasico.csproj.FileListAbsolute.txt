@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.Form1.resources
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.Properties.Resources.resources
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\bin\Debug\CRUDBasico.exe.config
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\bin\Debug\CRUDBasico.exe
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\bin\Debug\CRUDBasico.pdb
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.exe
+C:\Users\Admin\source\repos\CRUDBasico\CRUDBasico\obj\Debug\CRUDBasico.pdb
